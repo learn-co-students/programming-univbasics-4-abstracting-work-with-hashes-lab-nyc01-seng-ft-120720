@@ -1,4 +1,4 @@
-# Intro to Hashes Lab
+Learning # Intro to Hashes Lab
 
 ## Learning Goals
 
